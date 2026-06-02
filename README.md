@@ -1,4 +1,4 @@
-## 📄 README.md (SongoGame)
+## 📄 README.md (SongoGame):
 
 
 # SongoGame
@@ -7,6 +7,7 @@ Jeu de société traditionnel (Songo) sur mobile – React Native CLI.
 Deux joueurs, plateau 2×7 cases, semailles, prises, règles de solidarité.
 
 ---
+# Aris Workflow 
 
 ## 🚀 Installation et premier lancement
 
